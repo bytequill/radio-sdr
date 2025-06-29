@@ -1,0 +1,5 @@
+dev/*
+build/*
+# Temporary ignore!!
+docs/*
+
